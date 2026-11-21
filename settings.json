@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lukesstube.aternos.me",
-    "port": 44914,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
